@@ -8,7 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Edgebox</name>
   <description>Edgebox</description>
-  <package>pom</package>
+  <packaging>pom</packaging>
   <build>
     <plugins>
       <plugin>
