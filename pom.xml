@@ -8,6 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <modules>
     <module>edgebox-note</module>
+    <module>edgebox-web-static</module>
   </modules>
   <name>Edgebox</name>
   <description>Edgebox</description>
@@ -20,11 +21,17 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <inceptionYear>2012</inceptionYear>
+  <scm>
+    <url>https://github.com/keke/edgebox</url>
+    <connection>scm:git:https://github.com/keke/edgebox.git</connection>
+    <developerConnection>scm:git:https://github.com/keke/edgebox.git</developerConnection>
+  </scm>
   <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
+        <version>2.3.2</version>
         <configuration>
           <source>1.7</source>
           <target>1.7</target>
