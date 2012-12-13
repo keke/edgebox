@@ -3,6 +3,6 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
          version="3.0">
   <description>Webapp for Edgebox note</description>
-
   <display-name>Edgebox-Note-WebApp</display-name>
+
 </web-app>
