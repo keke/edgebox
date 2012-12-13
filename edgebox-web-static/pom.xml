@@ -11,6 +11,7 @@
   <packaging>war</packaging>
   <groupId>net.luerything.edgebox</groupId>
   <artifactId>web-static</artifactId>
+  <name>Edgebox web static</name>
   <dependencies>
     <dependency>
       <groupId>org.springframework</groupId>
